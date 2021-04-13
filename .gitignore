@@ -1,0 +1,3 @@
+env/
+audio_app/__pycache__/
+audio_app/apps/audios/__pycache__/
